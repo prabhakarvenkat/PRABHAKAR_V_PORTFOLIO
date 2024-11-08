@@ -70,7 +70,7 @@ const Profile = () => {
           className="profileImg max-h-64 w-auto rounded-lg shadow"
           loading="lazy"
           alt="Profile"
-          src="https://cdn.jsdelivr.net/gh/Akilraj-1153/Akilraj_N-Portfolio/src/Assets/Image/ProfileImg.jpg" />
+          src="https://cdn.jsdelivr.net/gh/prabhakarvenkat/PRABHAKAR_V_PORTFOLIO/src/Assets/Image/ProfileImg.jpg" />
       </motion.div>
 
       <div className="text-center mb-2">
