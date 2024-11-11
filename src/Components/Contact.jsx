@@ -30,10 +30,10 @@ const Contact = () => {
     setIsSubmitting(true);
     try {
       await emailjs.send(
-        "service_31oum3n",
-        "template_tubrlos",
+        "service_fhi8ax5",
+        "template_eefn7wu",
         { name: data.FullName, email: data.EmailId, message: data.Message },
-        "A4mzb36nfjQshXKDV"
+        "Mqf3fO6MCzu2qHvRI"
       );
       toast.success("Message sent!");
     } catch (error) {
