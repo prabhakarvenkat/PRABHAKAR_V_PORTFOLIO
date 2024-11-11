@@ -72,7 +72,7 @@ const Projects = () => {
                               : "bg-white text-black"
                           } transition-colors duration-500`}
                         >
-                          {index === 2 ? "Download App" : "Visit Page"}
+                          {index === 2 ? "Visit Page" : "Visit Page"} {/* Before Changes: {index === 2 ? "Download App" : "Visit Page"}*/}
                         </motion.button>
                       </ExternalLink>
                     )}
