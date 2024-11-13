@@ -155,34 +155,34 @@ export const Name = ({ isDarkTheme, height }) => {
   );
 };
 
-// export const FramerIcon = ({ isDarkTheme, height, margin }) => {
-//   return (
-//     <svg
-//       xmlns="http://www.w3.org/2000/svg"
-//       aria-label="GitHub"
-//       role="img"
-//       className={` ${height} ${margin}`}
-//       viewBox="0 0 100 100"
-//     >
-//       <g id="framer">
-//         <g id="framer_2">
-//           <path
-//             id="Vector"
-//             className="transition-colors duration-500"
-//             d="M80.8222 64.8219C81.8722 65.8719 81.1278 67.6663 79.6444 67.6663H52C51.0778 67.6663 50.3333 68.4108 50.3333 69.333V96.9774C50.3333 98.4608 48.5389 99.2052 47.4889 98.1552L17.65 68.3163C17.2333 67.8997 17 67.333 17 66.7441V35.9997C17 35.0775 17.7444 34.333 18.6667 34.333H50.3333L80.8222 64.8219Z"
-//             fill={isDarkTheme ? "#ffffff" : "#000000"}
-//           />
-//           <path
-//             id="Vector_2"
-//             className="transition-colors duration-500"
-//             d="M50.3334 34.333L19.8445 3.84408C18.7945 2.79408 19.5389 0.999634 21.0222 0.999634H82C82.9222 0.999634 83.6667 1.74408 83.6667 2.6663V32.6663C83.6667 33.5885 82.9222 34.333 82 34.333H50.3334Z"
-//             fill={isDarkTheme ? "#ffffff" : "#000000"}
-//           />
-//         </g>
-//       </g>
-//     </svg>
-//   );
-// };
+export const FramerIcon = ({ isDarkTheme, height, margin }) => {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      aria-label="GitHub"
+      role="img"
+      className={` ${height} ${margin}`}
+      viewBox="0 0 100 100"
+    >
+      <g id="framer">
+        <g id="framer_2">
+          <path
+            id="Vector"
+            className="transition-colors duration-500"
+            d="M80.8222 64.8219C81.8722 65.8719 81.1278 67.6663 79.6444 67.6663H52C51.0778 67.6663 50.3333 68.4108 50.3333 69.333V96.9774C50.3333 98.4608 48.5389 99.2052 47.4889 98.1552L17.65 68.3163C17.2333 67.8997 17 67.333 17 66.7441V35.9997C17 35.0775 17.7444 34.333 18.6667 34.333H50.3333L80.8222 64.8219Z"
+            fill={isDarkTheme ? "#ffffff" : "#000000"}
+          />
+          <path
+            id="Vector_2"
+            className="transition-colors duration-500"
+            d="M50.3334 34.333L19.8445 3.84408C18.7945 2.79408 19.5389 0.999634 21.0222 0.999634H82C82.9222 0.999634 83.6667 1.74408 83.6667 2.6663V32.6663C83.6667 33.5885 82.9222 34.333 82 34.333H50.3334Z"
+            fill={isDarkTheme ? "#ffffff" : "#000000"}
+          />
+        </g>
+      </g>
+    </svg>
+  );
+};
 
 export const TensorFlowIcon = ({ isDarkTheme, height, margin }) => {
   return (
