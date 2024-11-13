@@ -81,12 +81,12 @@ const Profile = () => {
           Hello, I am <br></br>
           <b>PRABHAKAR V</b>
         </motion.h2>
-        <motion.div
+        {/* <motion.div
           className="logo py-2 px-4 flex justify-center"
           variants={itemVariants}
         >
           <Name isDarkTheme={isDarkTheme} height="h-20" />
-        </motion.div>
+        </motion.div> */}
       </div>
 
       <motion.p
