@@ -55,16 +55,16 @@ To run this project locally:
 ## 📁 Project Structure
 
 
-PRABHAKAR_V_PORTFOLIO/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   └── App.jsx
-├── .eslintrc.js
-├── index.html
-└── vite.config.js
+PRABHAKAR_V_PORTFOLIO/  <br>
+├── public/  <br>
+├── src/  <br>
+│   ├── assets/  <br>
+│   ├── components/  <br>
+│   ├── pages/  <br>
+│   └── App.jsx  <br>
+├── .eslintrc.js  <br>
+├── index.html  <br>
+└── vite.config.js  <br>
 
 
 ---
