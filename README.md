@@ -37,14 +37,17 @@ To run this project locally:
 
 
 # Clone the repository
-git clone https://github.com/prabhakarvenkat/PRABHAKAR_V_PORTFOLIO.git
-cd PRABHAKAR_V_PORTFOLIO
+
+- git clone https://github.com/prabhakarvenkat/PRABHAKAR_V_PORTFOLIO.git
+- cd PRABHAKAR_V_PORTFOLIO
 
 # Install dependencies
-npm install
+
+- npm install
 
 # Start development server
-npm run dev
+
+- npm run dev
 
 
 ---
